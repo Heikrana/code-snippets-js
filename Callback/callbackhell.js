@@ -19,4 +19,5 @@
 
 //! Code Snippet
 
-//* checkout out -> https://github.com/mpj/fpjs8
+//* checkout out -> https://github.com/mattdesl/promise-cookbook
+//* Note, it goes over callbacks (and callback hell) and then explains promises (ES6).
