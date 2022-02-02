@@ -1,7 +1,7 @@
 /*
 
--> Promises came in ES6 (2015) JS standard and they are mainly used to solve the problems with
-   using callbacks namely //*callback hell*.
+*	Promises came in ES6 (2015) JS standard and they are mainly used to solve the problems with
+   -using callbacks namely //! Callback Hell.
 
 -> A promise is written by using Promise class i.e. const someVar = new Promise().
    A promise takes 2 arguments, resolve and reject. Resolve is called when the promise is executed

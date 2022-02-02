@@ -1,10 +1,10 @@
 /*
 
--> Callback functions are normal functions. As the name suggests, they are call backed i.e.
-   instead of calling them when they are first written, they are called after some time (code).
+* Callback functions are normal functions. As the name suggests, they are call backed i.e.
+- instead of calling them when they are first written, they are called after some time (code).
 
--> As functions are first class citizens, they can be passed as variables. So, we pass them as variables
-   to other functions and then we call them back at a later point of time in our code flow.
+* As functions are first class citizens, they can be passed as variables. So, we pass them as variables
+- to other functions and then we call them back at a later point of time in our code flow.
 
 -> BEWARE of Callback Hell
 
